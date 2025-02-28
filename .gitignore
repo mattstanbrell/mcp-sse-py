@@ -1,0 +1,11 @@
+// venv
+.venv
+
+// REAMDE
+README.md
+
+// .env
+.env
+
+// .env.local
+.env.local
